@@ -88,6 +88,29 @@ Follow the on-screen instructions to explore properties, engage in real-time bid
 -   Manzipango and Pannellum for 360° experiences
 -   AI and ML technologies for chatbot functionalities
 
+## Screenshots
+
+- Landing Page
+  
+![WhatsApp Image 2023-11-02 at 13 18 27_8bd5bb79](https://github.com/Archit1706/RealEstate360/assets/75872913/5481fca0-aded-4740-9758-1a8a16faad00)
+
+- Chat with AI
+
+![WhatsApp Image 2023-11-02 at 13 18 08_32cdf9be](https://github.com/Archit1706/RealEstate360/assets/75872913/d60d571b-a4e4-40b6-9fa5-4dc747860e87)
+
+- Listed Properties
+
+![WhatsApp Image 2023-11-02 at 13 15 53_b417a15c](https://github.com/Archit1706/RealEstate360/assets/75872913/0e423f56-7bda-4c53-82a8-06ff582a35ae)
+
+- Property Details Page
+
+![WhatsApp Image 2023-11-02 at 13 15 55_9271602e](https://github.com/Archit1706/RealEstate360/assets/75872913/fab043f3-dcd4-44a0-9fa2-adbf985500dc)
+
+- Blue Print and 3D designing
+
+![WhatsApp Image 2023-11-02 at 13 18 41_7ee53f38](https://github.com/Archit1706/RealEstate360/assets/75872913/e76d889c-71e6-413f-b453-6872e86ee4d1)
+
+
 ## Team
 
 -   Team Member 1: Lead developer for the house creation and object-based design.
